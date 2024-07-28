@@ -2,6 +2,7 @@
 client.json
 *.png
 *.wav
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
